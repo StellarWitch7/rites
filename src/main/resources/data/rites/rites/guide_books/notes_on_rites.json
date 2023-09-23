@@ -1,0 +1,44 @@
+{
+  "title": "EUM - first year notes",
+  "author": "Sylvan T.",
+  "polymer_item": "minecraft:book",
+  "pages": [
+    {
+      "type": "rites:chapter",
+      "title": "basics",
+      "paragraphs": [
+        "rites require core and appropriate candles",
+        "candles must all be lit",
+        "candle color depends on rite type",
+        "common rites work with any candle"
+      ]
+    },
+    {
+      "type": "rites:chapter",
+      "title": "connections",
+      "paragraphs": [
+        "effectless rites",
+        "common, uses any candle",
+        "filler to connect others",
+        "shares data",
+        "1 to 3 gold nuggets",
+        "smaller circle = more nuggets"
+      ]
+    },
+    {
+      "type": "rites:ritual",
+      "ritual": "rites:common/structural/large",
+      "title": "connector circle - large"
+    },
+    {
+      "type": "rites:ritual",
+      "ritual": "rites:common/structural/medium",
+      "title": "connector circle - medium"
+    },
+    {
+      "type": "rites:ritual",
+      "ritual": "rites:common/structural/small",
+      "title": "connector circle - small"
+    }
+  ]
+}
